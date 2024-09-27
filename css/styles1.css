@@ -1,0 +1,25 @@
+body { 
+    background-color:lightblue; 
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header { color: rgb(0, 0, 0); 
+}
+
+h1, h2, p { color: black; 
+}
+
+.container { 
+    background-color: black; 
+}
+
+.profisao {
+    background-color: white;
+    border:20px solid lightblue;
+}
+
+h2 {
+    display: flex;
+}
